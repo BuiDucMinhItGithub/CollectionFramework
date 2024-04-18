@@ -1,4 +1,4 @@
-package org.example;
+package org.example.collection;
 
 import java.util.HashSet;
 import java.util.LinkedHashSet;
@@ -13,10 +13,6 @@ public class SetExample {
     // HashSet
     HashSet<Integer> numbers = new HashSet<>();
     numbers.add(123);
-    numbers.add(321);
-    numbers.add(111);
-    numbers.add(220);
-    numbers.add(null);
     numbers.add(null);
 
     System.out.println(numbers);
