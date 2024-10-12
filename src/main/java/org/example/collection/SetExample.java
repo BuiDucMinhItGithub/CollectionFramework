@@ -19,6 +19,12 @@ public class SetExample {
     numbers.add(321);
     numbers.add(111);
     numbers.add(220);
+    numbers.add(2342345);
+    numbers.add(78967867);
+    numbers.add(123);
+    numbers.add(321);
+    numbers.add(111);
+    numbers.add(220);
     numbers.add(null);
     numbers.add(null);
 
