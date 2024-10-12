@@ -13,6 +13,9 @@ public class SetExample {
     // HashSet
     HashSet<Integer> numbers = new HashSet<>();
     numbers.add(123);
+    numbers.add(2342345);
+    numbers.add(78967867);
+    numbers.add(123);
     numbers.add(321);
     numbers.add(111);
     numbers.add(220);
