@@ -14,6 +14,8 @@ public class SetExample {
     HashSet<Integer> numbers = new HashSet<>();
     numbers.add(123);
     numbers.add(null);
+    System.out.println("Toi khong thich dieu nay");
+    numbers.add(null);
 
     System.out.println(numbers);
 
