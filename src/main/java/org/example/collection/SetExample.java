@@ -28,9 +28,6 @@ public class SetExample {
     // LinkedHashSet
     LinkedHashSet<String> words = new LinkedHashSet<>();
     words.add("Minh");
-    words.add("Hoa");
-    words.add("Linh");
-    words.add("Kien");
 
     System.out.println(words);
     for (String word: words) {
